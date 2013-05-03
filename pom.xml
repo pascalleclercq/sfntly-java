@@ -89,7 +89,7 @@
 	<scm>
 		<connection>https://github.com/pascalleclercq/sfntly-java.git</connection>
 		<developerConnection>https://github.com/pascalleclercq/sfntly-java.git</developerConnection>
-		<url>https://github.com/pascalleclercq/sfntly-java</url>
+		<url>scm:git:https://github.com/pascalleclercq/sfntly-java</url>
 	</scm>
 	<name>sfntly java</name>
 	<description>Fork from http://code.google.com/p/sfntly/</description>
